@@ -23,5 +23,25 @@
     },
     "new_key_3": {
         "translation": "Something"
+    },
+    "mm_about2": {
+        "translation": "About us",
+        "notes": "Title for main menu",
+        "limit": 20
+    },
+    "someke3y": {
+        "translation": "First level key: updated"
+    },
+    "somekey4sub": {
+        "translation": "Second level key"
+    },
+    "new_key5": {
+        "translation": "3rd level key"
+    },
+    "new_key_6": {
+        "translation": "4th level key"
+    },
+    "new_key_7": {
+        "translation": "Something"
     }
 }
