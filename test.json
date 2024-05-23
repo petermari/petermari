@@ -14,5 +14,8 @@
     },
     "somekey::sub": {
         "translation": "Second level key"
+    },
+    "new_key": {
+        "translation": "3rd level key"
     }
 }
