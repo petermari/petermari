@@ -10,7 +10,7 @@
         "limit": 20
     },
     "somekey": {
-        "translation": "First level key"
+        "translation": "First level key: updated"
     },
     "somekey::sub": {
         "translation": "Second level key"
@@ -20,5 +20,8 @@
     },
     "new_key_2": {
         "translation": "4th level key"
+    },
+    "new_key_3": {
+        "translation": "Something"
     }
 }
